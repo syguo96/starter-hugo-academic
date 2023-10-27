@@ -27,8 +27,8 @@ publishDate: '2023'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Advances in Neural Information Processing Systems*
-publication_short: In *NeurIPS*
+publication: In *Advances in Neural Information Processing Systems (NeurIPS), 2023*
+# publication_short: In *NeurIPS*
 
 abstract: Constraint-based causal discovery methods leverage conditional independence tests to infer causal relationships in a wide variety of applications. Just as the majority of machine learning methods, existing work focuses on studying \textit{independent and identically distributed} data. However, it is known that even with infinite i.i.d.\ data, constraint-based methods can only identify causal structures up to broad Markov equivalence classes, posing a fundamental limitation for causal discovery. In this work, we observe that exchangeable data contains richer conditional independence structure than i.i.d.\ data, and show how the richer structure can be leveraged for causal discovery. We first present causal de Finetti theorems, which state that exchangeable distributions with certain non-trivial conditional independences can always be represented as \textit{independent causal mechanism (ICM)} generative processes. We then present our main identifiability theorem, which shows that given data from an ICM generative process, its unique causal structure can be identified through performing conditional independence tests. We finally develop a causal discovery algorithm and demonstrate its applicability to inferring causal relationships from multi-environment data.
 
