@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Siyuan Guo
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Siyuan
+last_name: Guo
 
 # Status emoji
 status:
@@ -17,21 +17,23 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Cambridge
+    url: https://www.cst.cam.ac.uk/
+  - name: Max Planck Institute for Intelligent Systems
+    url: https://ei.is.mpg.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Causality in Exchangeable data
+  - Mathematical Reasoning in Language Models
 
 # Education to show in About widget
 education:
