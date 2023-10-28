@@ -65,13 +65,13 @@ sections:
         - title: Premium Research Bursary 
           date_end: '2022-09-30'
           date_start: '2021-10-01'
-          description: 'Awarded £15609'
+          description: 'Awarded £15,609'
           organization: University of Cambridge
           url: 'https://www.cst.cam.ac.uk/admissions/phd/rs-premium'
         - title: Cambridge Tübingen PhD Fellowship in Machine Learning
           date_end: '2025-09-30'
           date_start: '2021-10-01'
-          description: 'Awarded ~ 168249 GBP'
+          description: 'Awarded ~ £168,249'
           organization: Max Planck Institute for Intelligent Systems
           url: 'https://mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/'
         - title: Dean's List
