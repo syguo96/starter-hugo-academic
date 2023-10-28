@@ -73,7 +73,7 @@ sections:
           date_start: '2021-10-01'
           description: 'Awarded ~ \pounds 168249'
           organization: Max Planck Institute for Intelligent Systems
-          url: https://mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships
+          url: 'https://mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships'
         - title: 'Dean's List'
           date_start: '2021-12-01'
           organization: University College London
