@@ -75,9 +75,11 @@ sections:
           organization: Max Planck Institute for Intelligent Systems
           url: https://mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships
         - title: 'Dean's List'
-          date_end: ''
           date_start: '2021-12-01'
           organization: University College London
+          description:
+          url:
+          date_end: ''
         - title: 'Openshaw Prize, Exhibition & Foundation Scholarship'
           date_start: '2015-10-01'
           date_end: '2018-06-30'
