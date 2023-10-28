@@ -65,7 +65,7 @@ sections:
         - title: Premium Research Bursary 
           date_end: '2022-09-30'
           date_start: '2021-10-01'
-          description: 'Awarded 15609 GBP'
+          description: 'Awarded £15609'
           organization: University of Cambridge
           url: 'https://www.cst.cam.ac.uk/admissions/phd/rs-premium'
         - title: Cambridge Tübingen PhD Fellowship in Machine Learning
