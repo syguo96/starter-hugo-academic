@@ -68,22 +68,45 @@ sections:
           description: 'Awarded \pounds 15609'
           organization: University of Cambridge
           url: 'https://www.cst.cam.ac.uk/admissions/phd/rs-premium'
-        - title: Cambridge - Tübingen PhD Fellowship in Machine Learning
+        - title: Cambridge Tübingen PhD Fellowship in Machine Learning
           date_end: '2025-09-30'
           date_start: '2021-10-01'
           description: 'Awarded ~ \pounds 168249'
           organization: Max Planck Institute for Intelligent Systems
-          url: 'https://mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships'
-        - title: 'Dean's List'
+          url: 'https://mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/'
+        - title: Dean's List
           date_start: '2021-12-01'
           organization: University College London
           description:
-          url:
           date_end: ''
-        - title: 'Openshaw Prize, Exhibition & Foundation Scholarship'
+        - title: Openshaw Prize, Exhibition & Foundation Scholarship
           date_start: '2015-10-01'
           date_end: '2018-06-30'
           organization: Queens' College, University of Cambridge
+            - certificate_url: https://www.coursera.org
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Neural Networks and Deep Learning
+          url: ''
+        - certificate_url: https://www.edx.org
+          date_end: ''
+          date_start: '2021-01-01'
+          description: Formulated informed blockchain models, hypotheses, and use cases.
+          organization: edX
+          organization_url: https://www.edx.org
+          title: Blockchain Fundamentals
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
+          description: ''
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Object-Oriented Programming in R'
+          url: ''
     design:
       columns: '2'
   - block: collection
