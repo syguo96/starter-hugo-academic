@@ -1,5 +1,5 @@
 ---
-title: Moving beyond I.I.D.\: Causal de Finetti and OOV Generalization. 
+title: 'Moving beyond I.I.D.: Causal de Finetti and OOV Generalization'
 
 event: Workshop on Causal Representation Learning
 event_url: https://crl-tuebingen-2023.github.io/
