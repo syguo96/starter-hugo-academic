@@ -41,7 +41,7 @@ image:
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 'static/uploads/Moving_beyond_I_I_D_.pdf'
+url_slides: 'uploads/Moving_beyond_I_I_D_.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
