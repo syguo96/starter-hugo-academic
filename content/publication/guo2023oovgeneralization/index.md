@@ -20,7 +20,7 @@ publication_types: ["article"]
 publication: "arxiv preprint 2304.07896"
 publication_short: ""
 
-abstract: The ability of an agent to do well in new environments is a critical aspect of intelligence. In machine learning, this ability is known as \textit{strong} or \textit{out-of-distribution} generalization. However, merely considering differences in data distributions is inadequate for fully capturing differences between learning environments. In the present paper, we investigate \textit{out-of-variable} generalization, which pertains to an agent's generalization capabilities concerning environments with variables that were never jointly observed before. This skill closely reflects the process of animate learning: we, too, explore Nature by probing, observing, and measuring proper subsets of variables at any given time. 
+abstract: The ability of an agent to do well in new environments is a critical aspect of intelligence. In machine learning, this ability is known as \textit{strong} or \textit{out-of-distribution} generalization. However, merely considering differences in data distributions is inadequate for fully capturing differences between learning environments. In the present paper, we investigate \textit{out-of-variable} generalization, which pertains to an agent's generalization capabilities concerning environments with variables that were never jointly observed before.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
