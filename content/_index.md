@@ -94,12 +94,21 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: collection
+  - block: Service
     content:
       title: Service & Professional Development
-      filters:
-        folders:
-          - service
+      date_format: Jan 2006
+      items:
+        - title: Organizer of workshop on causal representation learning
+          url: 'https://crl-tuebingen-2023.github.io/'
+          location: Germany
+          date_start: '2023-04-17'
+          date_end: '2023-04-19'
+        - title: Organizer of workshop on causal digital twin
+          url: 'https://ellis.eu/news/members-of-the-ellis-community-meet-for-the-first-unconference-in-spain'
+          location: Spain
+          date_start: '2023-01-04'
+          date_end: '2023-01-04'
     design:
       columns: '2'
       view: compact
