@@ -104,6 +104,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Intern Mentoring
+          company: Max Planck Institute for Intelligent Systems
+          location: Germany
+          date_start: '2023-06-05'
+          date_end: '2023-08-25'
+          description: Mentoring [Xianjun Davin Choo](https://cxjdavin.github.io/) during his intern period at MPI on out-of-variable generalization. 
         - title: Workshop Organizer
           company: Causal Representation Learning
           company_url: 'https://crl-tuebingen-2023.github.io/'
