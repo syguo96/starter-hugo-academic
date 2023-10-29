@@ -16,7 +16,7 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        Visit my [Google Scholar profile](https://scholar.google.co.uk/citations?hl=en&pli=1&user=GRGyzn4AAAAJ) or search over [my publication page](./publication/).
         {{% /callout %}}
       filters:
         folders:
