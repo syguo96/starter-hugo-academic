@@ -94,7 +94,7 @@ sections:
     design:
       columns: '2'
       view: compact
-    - block: experience
+  - block: experience
     content:
       title: Experience
       # Date format for experience
