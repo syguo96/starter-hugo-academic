@@ -41,7 +41,7 @@ image:
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 'uploads/Causal_de_Finetti__Talk.pdf'
+url_slides: 'uploads/Causal_de_Finetti___Talk.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
