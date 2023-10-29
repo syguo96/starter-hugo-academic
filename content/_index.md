@@ -94,6 +94,15 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: collection
+    content:
+      title: Service & Professional Development
+      filters:
+        folders:
+          - service
+    design:
+      columns: '2'
+      view: compact
   - block: contact
     id: contact
     content:
