@@ -94,7 +94,7 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: Service
+  - block: services
     content:
       title: Service & Professional Development
       date_format: Jan 2006
@@ -109,9 +109,7 @@ sections:
           location: Spain
           date_start: '2023-01-04'
           date_end: '2023-01-04'
-    design:
       columns: '2'
-      view: compact
   - block: contact
     id: contact
     content:
