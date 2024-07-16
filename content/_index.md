@@ -11,14 +11,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
-    content:
-      title: Blogs
-      filters:
-        folders:
-          - blog
-    design:
-      view: article-grid
+#  - block: collection
+#    content:
+#      title: Blogs
+#      filters:
+#        folders:
+#          - blog
+#    design:
+#      view: article-grid
   - block: collection
     content:
       title: Recent Publications
