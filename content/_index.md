@@ -13,6 +13,14 @@ sections:
       username: admin
   - block: collection
     content:
+      title: Blogs
+    filter:
+      folders:
+        - post
+    design:
+      view: article-grid
+  - block: collection
+    content:
       title: Recent Publications
       text: |-
         {{% callout note %}}
