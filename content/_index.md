@@ -17,7 +17,7 @@ sections:
       filters:
         folders:
           - news
-        exclude_features:false
+        exclude_features: false
       design:
         columns: '2'
   - block: collection
