@@ -85,7 +85,7 @@ My research interests are on scientific induction (a.k.a causality) and non-i.i.
 from Causal de Finetti (NeurIPS 2022) to _Do_ Finetti (Under review), 
 from _out-of-distribution_ to _out-of-variable_ (ICLR 2023). 
 
-The quest to understand _why machines learn_ relies on the fundamental assumption that train and test data come from i.i.d. data. **BUT** animals including humans do not perform data shuffling in our life experiences of absorbing information flows. We learn in non-linear, complex, dependent ways. And the quest to understand learning in non-i.i.d. setting has just begun: exchangeable and out-of-variable data offers a realistic and doable next step. 
+The quest to understand _why machines learn_ relies on the fundamental assumption that train and test data come from i.i.d. data. **BUT** animals including humans do not perform data shuffling in our life experiences of absorbing information flows. We learn in non-linear, complex, dependent ways. And the quest to understand learning in non-i.i.d. setting has just begun: exchangeable data offers a realistic and doable next step. 
 
 Previously I was supervised by [Ricardo Silva](https://www.homepages.ucl.ac.uk/~ucgtrbd/) at UCL on causality and fairness and was supervised by [Richard Samworth](https://www.statslab.cam.ac.uk/~rjs57/) during my undergraduate time working on variable selection in high-dimensional statistical inference. 
 {style="text-align: justify;"}
