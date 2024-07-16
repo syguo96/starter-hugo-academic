@@ -79,7 +79,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD student in computer science studying machine learning at the University of Cambridge, supervised by [Ferenc Huszár](https://www.inference.vc/about/) and [Bernhard Schölkopf](https://is.mpg.de/~bs). I am grateful to [Cambridge-Tübingen Fellowship](https://mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/) and [Premium Research Studentships](https://www.cst.cam.ac.uk/admissions/phd/rs-premium) for funding my PhD studies. My research interests focus on understanding causality in non-i.i.d. data, particularly causality in exchangeable data and enabling language models for mathematical reasoning. 
+I am a PhD student in computer science studying machine learning at the University of Cambridge, supervised by [Ferenc Huszár](https://www.inference.vc/about/) and [Bernhard Schölkopf](https://is.mpg.de/~bs). I am grateful to [Cambridge-Tübingen Fellowship](https://mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/) and [Premium Research Studentships](https://www.cst.cam.ac.uk/admissions/phd/rs-premium) for funding my PhD studies.
 
 Previously I was supervised by [Ricardo Silva](https://www.homepages.ucl.ac.uk/~ucgtrbd/) at UCL on causality and fairness and was supervised by [Richard Samworth](https://www.statslab.cam.ac.uk/~rjs57/) during my undergraduate time working on variable selection in high-dimensional statistical inference. 
 {style="text-align: justify;"}
