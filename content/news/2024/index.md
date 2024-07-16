@@ -1,17 +1,8 @@
-+++
-date: '2017-01-01T00:00:00Z'
-publishDate: '2017-01-01T00:00:00Z'
-draft = false
-title: 'News'
-tags = []
-math = true
-summary: 'abcd'
+---
+title: 'Causal de Finetti: On the Identification of Invariant Causal Structure in Exchangeable Data'
 
-[header]
-image = ""
-caption = ""
+summary: 
 
-+++
+date: '2022-11-04T12:00:00Z'
 
-{{< readfromfile "/content/newslist.dat" 1000 >}} 
-
+---
