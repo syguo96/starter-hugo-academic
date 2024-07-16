@@ -2,6 +2,7 @@
 date = 2024-7-22
 lastmod = 2024-7-22
 draft = false
+title = 'News'
 tags = []
 math = true
 summary = """
