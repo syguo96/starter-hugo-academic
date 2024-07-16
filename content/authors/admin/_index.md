@@ -95,5 +95,8 @@ List of recent news:
 I take great pleasure in (co-)mentoring a few talented and highly motivated students. It has been a great privilege
 for me to constantly learn and get inspired by them. Here is a list of students I am working with in time-wise order:
 
+- Anna Kerekes, PhD student at ETH Zurich, Feb 2024 - now
+- Szilvia Ujváry, PhD student at University College London and University of Cambridge, Feb 2024 - now
+- Davin Xianjun Choo, PhD student at National University of Singapore (NUS), Jun - Aug 2023
   
 {style="text-align: justify;"}
