@@ -16,9 +16,9 @@ sections:
       title: Blogs
     filters:
       folders:
-        - blog
+        - 
     design:
-      view: article-grid
+      view: compact
   - block: collection
     content:
       title: Recent Publications
