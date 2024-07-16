@@ -98,5 +98,7 @@ for me to constantly learn and get inspired by them. Here is a list of students 
 - Anna Kerekes, PhD student at ETH Zurich, Feb 2024 - now
 - Szilvia Ujváry, PhD student at Cambridge, Feb 2024 - now
 - Davin Xianjun Choo, PhD student at NUS, Jun - Aug 2023
+
+**Application** For motivated students interested in causality and / or AI for science, feel free to reach out via _email_. Internship is possible to be hosted at beautiful _MPI_. 
   
 {style="text-align: justify;"}
