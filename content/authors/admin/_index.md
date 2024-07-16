@@ -99,6 +99,6 @@ for me to constantly learn and get inspired by them. Here is a list of students 
 - Szilvia Ujváry, PhD student at Cambridge, Feb 2024 - now
 - Davin Xianjun Choo, PhD student at NUS, Jun - Aug 2023
 
-**Application** For motivated students interested in working on causality and / or AI for science, feel free to reach out via _email_. Internship is possible to be hosted at beautiful [_MPI_](https://ei.is.mpg.de/). 
+**Application** For motivated students interested in working on causality and / or machine learning, feel free to reach out via [sguo26v@gmail.com](sguo26v@gmail.com). Internship is possible to be hosted at beautiful [_MPI_](https://ei.is.mpg.de/). 
   
 {style="text-align: justify;"}
