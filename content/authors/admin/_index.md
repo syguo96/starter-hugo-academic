@@ -31,9 +31,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
+  - Causality (aka Scientific Induction)
   - Machine Learning
-  - Causality in Exchangeable data
-  - Reasoning in Language Models
+  - Non-I.I.D.
 
 # Education to show in About widget
 education:
