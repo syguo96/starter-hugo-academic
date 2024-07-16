@@ -1,6 +1,6 @@
 +++
-date = 2024-07-22
-lastmod = 2024-07-22
+date = 2024-07-15
+lastmod = 2024-07-15
 draft = false
 title = 'News'
 tags = []
