@@ -1,5 +1,5 @@
 ---
-title: July 2024 Starting at FAIR Meta. 
+title: July 2024\: Starting at FAIR Meta. 
 
 date: '2024-07-22T09:50:00Z'
 
