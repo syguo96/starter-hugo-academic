@@ -11,14 +11,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: services
-    content:
-      title: News
-      items:
-        - title: [**July 2024**] Start internship at FAIR Meta, NYC.
-        - date_start: July 2024
-    design:
-      columns: '2'
   - block: collection
     content:
       title: Recent Publications
