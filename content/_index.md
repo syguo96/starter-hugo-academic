@@ -13,18 +13,6 @@ sections:
       username: admin
   - block: collection
     content:
-      title: News
-      filters:
-        folders:
-          - news
-        exclude_features: false
-      design:
-        column: '2'
-        view: 'date-summary'
-        spacing:
-          padding: [0, 0, 0, 0]
-  - block: collection
-    content:
       title: Recent Publications
       text: |-
         {{% callout note %}}
