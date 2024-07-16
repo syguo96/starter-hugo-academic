@@ -16,6 +16,7 @@ sections:
       title: News
       items:
         - title: [**July 2024**] Start internship at FAIR Meta, NYC.
+        - date_start: July 2024
     design:
       columns: '2'
   - block: collection
