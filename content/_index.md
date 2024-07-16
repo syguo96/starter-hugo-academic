@@ -13,6 +13,15 @@ sections:
       username: admin
   - block: collection
     content:
+      title: News
+      filters:
+        folders:
+          - news
+        exclude_features:false
+      design:
+        columns: '2'
+  - block: collection
+    content:
       title: Recent Publications
       text: |-
         {{% callout note %}}
