@@ -1,15 +1,7 @@
 ---
-title: Starting at FAIR Meta.
+title: [**July 2024 **]Starting at FAIR Meta.
 
-# links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: 'uploads/Moving_beyond_I_I_D_.pdf'
-url_video: ''
+date: '2024-07-22T09:50:00Z'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
