@@ -1,6 +1,6 @@
 ---
-title: 'July 2024: Starting at FAIR Meta.'
-
+title: 'Internship at FAIR Meta'
+date: 2024-07-22
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
