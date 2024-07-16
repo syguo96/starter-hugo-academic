@@ -16,15 +16,6 @@ sections:
       title: News
       items:
         - title: [**July 22nd 2024**] Start internship at FAIR Meta, NYC. 
-  #        url: 'https://crl-tuebingen-2023.github.io/'
-  #        location: Germany
-  #        date_start: '2023-04-17'
-  #        date_end: '2023-04-19'
-  #      - title: Organizer of workshop on causal digital twin
-  #        url: 'https://ellis.eu/news/members-of-the-ellis-community-meet-for-the-first-unconference-in-spain'
-  #        location: Spain
-  #        date_start: '2023-01-04'
-  #        date_end: '2023-01-04'
   - block: collection
     content:
       title: Recent Publications
