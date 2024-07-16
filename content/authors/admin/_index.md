@@ -31,9 +31,10 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Causality (aka Scientific Induction)
+  - Causality
+  - Scientific Induction
   - Machine Learning
-  - Non-I.I.D.
+  - Non-I.I.D. Data
 
 # Education to show in About widget
 education:
