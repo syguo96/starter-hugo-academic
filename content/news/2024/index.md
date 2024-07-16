@@ -1,13 +1,11 @@
 +++
-date = 2024-07-15
-lastmod = 2024-07-15
+date: '2017-01-01T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 draft = false
-title = 'News'
+title: 'News'
 tags = []
 math = true
-summary = """
-Internship at FAIR Meta, NYC
-"""
+summary: 'abcd'
 
 [header]
 image = ""
