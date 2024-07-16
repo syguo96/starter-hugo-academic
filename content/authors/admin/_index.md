@@ -80,9 +80,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD student in computer science studying machine learning at the University of Cambridge, supervised by [Ferenc Huszár](https://www.inference.vc/about/) and [Bernhard Schölkopf](https://is.mpg.de/~bs). I am grateful to [Cambridge-Tübingen Fellowship](https://mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/) and [Premium Research Studentships](https://www.cst.cam.ac.uk/admissions/phd/rs-premium) for funding my PhD studies.
+I am a [Cambridge-Tübingen Fellow](https://mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/) at the Max Planck Institute for Intelligent Systems and the University of Cambridge, supervised by [Ferenc Huszár](https://www.inference.vc/about/) and [Bernhard Schölkopf](https://is.mpg.de/~bs). 
 
-My research interests are on scientific induction (a.k.a causality) and non-i.i.d. data. I am interested in building theoretical foundations of causality in non-i.i.d. data:
+My research interests are on scientific induction (a.k.a causality) and non-i.i.d. data. I am interested in incorporating causality in machine learning models and understanding causality in non-i.i.d. data:
 from Causal de Finetti (NeurIPS 2022) to _Do_ Finetti, 
 from _out-of-distribution_ to _out-of-variable_ (ICLR 2023). 
 
