@@ -20,7 +20,7 @@ sections:
         exclude_features: false
       design:
         column: '2'
-        view: 'date-title-summary'
+        view: 'date-summary'
         spacing:
           padding: [0, 0, 0, 0]
   - block: collection
