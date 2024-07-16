@@ -15,7 +15,7 @@ sections:
     content:
       title: News
       items:
-        - title: [**July 22nd 2024**] Start internship at FAIR Meta, NYC. 
+        - title: [**July 2024**] Start internship at FAIR Meta, NYC. 
   - block: collection
     content:
       title: Recent Publications
