@@ -16,7 +16,7 @@ sections:
       title: Blogs
     filter:
       folders:
-        - post
+        - blog
     design:
       view: article-grid
   - block: collection
