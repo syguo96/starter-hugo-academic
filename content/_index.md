@@ -14,7 +14,7 @@ sections:
   - block: collection
     content:
       title: Blogs
-    filter:
+    filters:
       folders:
         - blog
     design:
