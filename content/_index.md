@@ -11,15 +11,17 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  # - block: collection
-  #  content:
-  #    title: News
-  #    filters:
-  #      folders:
-  #        - news
-  #      exclude_features: false
-  #    design:
-  #      columns: '2'
+   - block: collection
+    content:
+      title: News
+      filters:
+        folders:
+          - news
+        exclude_features: false
+      design:
+        view: date-title-summary
+        spacing:
+          padding: [0, 0, 0, 0]
   - block: collection
     content:
       title: Recent Publications
