@@ -89,7 +89,6 @@ from _out-of-distribution_ to _out-of-variable_ (ICLR 2023).
 The quest to understand _why machines learn_ relies on the fundamental assumption that train and test data come from i.i.d. data. **BUT** animals including humans do not perform data shuffling in our life experiences of absorbing information. We learn in non-linear, complex, dependent ways. And the quest to understand learning in non-i.i.d. setting has just begun: exchangeable data offers a realistic and doable next step. 
 
 **News**
-- [July 2024] Starting internship with FAIR Meta, NYC.
-
--
+- [July 22nd 2024] Starting internship with FAIR Meta, NYC. 
+- [July 5th 2024] Won the MPI-IS Outstanding Female Doctoral Student Award!! 
 {style="text-align: justify;"}
