@@ -1,12 +1,11 @@
 +++
-date = 2017-12-01
-lastmod = 2017-12-01
+date = 2024-07-22
+lastmod = 2024-07-22
 draft = false
 tags = []
-title = "News"
 math = true
 summary = """
-List of news.
+Internship at FAIR Meta, NYC
 """
 
 [header]
