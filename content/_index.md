@@ -14,11 +14,11 @@ sections:
   - block: collection
     content:
       title: Blogs
-    filters:
-      folders:
-        - 
+      filters:
+        folders:
+          - blog
     design:
-      view: compact
+      view: article-grid
   - block: collection
     content:
       title: Recent Publications
