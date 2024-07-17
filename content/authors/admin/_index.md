@@ -80,7 +80,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a [Cambridge-Tübingen Fellow](https://mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/) at the Max Planck Institute for Intelligent Systems and the University of Cambridge, supervised by [Ferenc Huszár](https://www.inference.vc/about/) and [Bernhard Schölkopf](https://is.mpg.de/~bs). Previously I worked on fairness with [Ricardo Silva](https://www.homepages.ucl.ac.uk/~ucgtrbd/) at UCL and variable selection in high-dimensional statistics with [Richard Samworth](https://www.statslab.cam.ac.uk/~rjs57/). 
+I am a [Cambridge-Tübingen Fellow](https://mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/) at the Max Planck Institute for Intelligent Systems and the University of Cambridge, supervised by [Bernhard Schölkopf](https://is.mpg.de/~bs) and [Ferenc Huszár](https://www.inference.vc/about/). Previously I worked on fairness with [Ricardo Silva](https://www.homepages.ucl.ac.uk/~ucgtrbd/) at UCL and variable selection in high-dimensional statistics with [Richard Samworth](https://www.statslab.cam.ac.uk/~rjs57/). 
 
 My research interests are on scientific induction (a.k.a causality) and non-i.i.d. data. I am interested in incorporating causality in machine learning models and understanding causality in non-i.i.d. data:
 from Causal de Finetti (NeurIPS 2022) to _Do_ Finetti, 
