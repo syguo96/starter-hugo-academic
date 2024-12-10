@@ -20,17 +20,5 @@ sections:
 #    design:
 #      view: article-grid
 
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: 
-      # Contact (add or remove contact options as necessary)
-      email: sguo26v@gmail.com
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-    design:
-      columns: '2'
+
 ---
