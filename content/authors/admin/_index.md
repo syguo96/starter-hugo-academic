@@ -83,12 +83,13 @@ highlight_name: true
 I am a [Cambridge-Tübingen Fellow](https://mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/) at the Max Planck Institute for Intelligent Systems and the University of Cambridge, supervised by [Bernhard Schölkopf](https://is.mpg.de/~bs) and [Ferenc Huszár](https://www.inference.vc/about/). Previously I worked on fairness with [Ricardo Silva](https://www.homepages.ucl.ac.uk/~ucgtrbd/) at UCL and variable selection in high-dimensional statistics with [Richard Samworth](https://www.statslab.cam.ac.uk/~rjs57/). 
 
 My research interests are on scientific induction (a.k.a causality) and non-i.i.d. data. I am interested in incorporating causality in machine learning models and understanding causality in non-i.i.d. data:
-from Causal de Finetti (NeurIPS 2022) to _Do_ Finetti, 
-from _out-of-distribution_ to _out-of-variable_ (ICLR 2023). 
+from [Causal de Finetti](https://arxiv.org/abs/2203.15756) (NeurIPS 2023) to [_Do_ Finetti](https://arxiv.org/abs/2405.18836) (NeurIPS 2024 **oral**), 
+from _out-of-distribution_ to [_out-of-variable_](https://arxiv.org/abs/2304.07896) (ICLR 2023). 
 
 List of recent news: 
 
-- **2024-07-22** Off to [FAIR Meta](https://ai.meta.com/research/), NYC.
+- **2024-09-25** _Do_ Finetti accepted in NeurIPS 2024 as **oral** presentation, with acceptance rate 0.46\%. 
+- **2024-07-22** Off to start research scientist intern at [FAIR Meta](https://ai.meta.com/research/), NYC.
 - **2024-07-19** Invited to lecture at [Cambridge Ellis Summer School](https://www.ellis.eng.cam.ac.uk/summer-school/). 
 - **2024-07-05** Received the [MPI-IS Outstanding Female Doctoral Student Prize](https://is.mpg.de/news/siyuan-guo-wins-2024-mpi-is-outstanding-female-doctoral-student-prize)!!
 
@@ -99,6 +100,6 @@ for me to constantly learn and get inspired by them. Here is a list of students 
 - Szilvia Ujváry, PhD student at Cambridge, Feb 2024 - now
 - Davin Xianjun Choo, PhD student at NUS, Jun - Aug 2023
 
-**Application** For motivated students interested in working on causality and / or machine learning, feel free to reach out via [sguo26v@gmail.com](sguo26v@gmail.com). Internship is possible to be hosted at beautiful [_MPI_](https://ei.is.mpg.de/). 
+**Application** For motivated students interested in working on machine learning and/or causality, please reach out via [sguo26v@gmail.com](sguo26v@gmail.com). Internship can be hosted at beautiful [_MPI_](https://ei.is.mpg.de/). 
   
 {style="text-align: justify;"}
