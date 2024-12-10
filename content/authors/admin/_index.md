@@ -84,7 +84,7 @@ I am a [Cambridge-Tübingen Fellow](https://mlg.eng.cam.ac.uk/cambridge_tubingen
 
 My research interests are on scientific induction (a.k.a causality) and non-i.i.d. data. I am interested in incorporating causality in machine learning models and understanding causality in non-i.i.d. data:
 from [Causal de Finetti](https://arxiv.org/abs/2203.15756) (NeurIPS 2023) to [_Do_ Finetti](https://arxiv.org/abs/2405.18836) (NeurIPS 2024 **oral**), 
-from _out-of-distribution_ to [_out-of-variable_](https://arxiv.org/abs/2304.07896) (ICLR 2023). 
+from _out-of-distribution_ to [_out-of-variable_](https://arxiv.org/abs/2304.07896) (ICLR 2024). 
 
 List of recent news: 
 
