@@ -13,7 +13,6 @@ sections:
       username: admin
 
 <!--
-
   - block: markdown
     id: students
     content:
