@@ -90,11 +90,8 @@ My work is guided by two intertwined questions:
 2. **How can we identify fundamental laws of nature directly from data?**  
    → This includes my [*causal de Finetti*](https://arxiv.org/abs/2203.15756) line of work on the statistical foundations of causality.
 
-Recently, I think **evolutionary pressure** — the need to learn in a finite amount of time in order to survive — is central to the emergence of intelligence; and **learning dynamics** can be viewed as following physical laws, in particular a **principle of least action**. In this *physics of learning* framework, learning is modelled as **stationary-action dynamics on information fields**. Within one week of the arXiv release, this work led to a fireside-chat invitation, multiple academic and industry talk invitations, and collaboration discussions, including infrastructure support from **AWS**.
-
 My long-term goal is to help build a **physics-inspired mathematical theory of intelligence** that both advances the foundations of AI and **accelerates scientific discovery**.
 
-**Application** For motivated students interested in working on the Science of AI and AI for Science, please reach out via [sguo26v@gmail.com](sguo26v@gmail.com). 
 
 Talk Bio: Siyuan Guo is a Ph.D in Machine Learning at the University of Cambridge and Max Planck Institute for Intelligent Systems, working with [Bernhard Schölkopf](https://is.mpg.de/~bs) and [Ferenc Huszár](https://www.inference.vc/about/). She is curious to understand intelligence and accelerate scientific discovery through AI. She has published in top-tier ML venues (e.g., NeurIPS and ICLR) with 1 **oral** and 2 **spotlights** acceptance. Her research is recognized as [MIT EECS Rising Star](https://is.mpg.de/ei/news/siyuan-guo-receives-the-mit-eecs-rising-star-award), the [G-research PhD prize](https://www.gresearch.com/news/g-research-2025-phd-prize-winners-university-of-cambridge/), and wins [MPI-IS Outstanding Female Doctoral Student Prize](https://is.mpg.de/news/siyuan-guo-wins-2024-mpi-is-outstanding-female-doctoral-student-prize). Her current research is supported under the [Cambridge-Tübingen Fellow](https://mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/) and [Premium Research Studentship](https://www.cst.cam.ac.uk/admissions/phd/rs-premium).  
 
@@ -113,5 +110,6 @@ for me to constantly learn and get inspired by them. Here is a list of students 
 - Szilvia Ujváry, PhD student at Cambridge, Feb 2024 - now
 - Davin Xianjun Choo, PhD student at NUS, Jun - Aug 2023
 
+**Application** For motivated students interested in working on the Science of AI and AI for Science, please reach out via [sguo26v@gmail.com](sguo26v@gmail.com). 
   
 {style="text-align: justify;"}
