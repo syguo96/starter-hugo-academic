@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: ''
       subtitle: ''
       text: ''   # optional intro text
       count: 6   # how many items to show
