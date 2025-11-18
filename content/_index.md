@@ -12,6 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
+<!--
 
   - block: markdown
     id: students
@@ -64,4 +65,5 @@ sections:
         </div>
     design:
       columns: "1"
+-->
 ---
