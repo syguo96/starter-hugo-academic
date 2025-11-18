@@ -93,16 +93,17 @@ My work is guided by two intertwined questions:
 My long-term interest is AI + Science: helping build a physics-inspired mathematical theory of intelligence and using AI to accelerate scientific discovery.
 
 ---
+**News**
+- **2025-07-17** Back as opening lecturer in the Causality Day at [Cambridge Ellis Summer School 2025]([https://www.ellis.eng.cam.ac.uk/summer-school/](https://www.ellis.eng.cam.ac.uk/summer-school/)) due to last year's positive participant feedback and helping organize the agenda. 
+- **2024-09-25** [_Do_ Finetti](https://arxiv.org/abs/2405.18836) accepted in NeurIPS 2024 as **oral** presentation, with acceptance rate 0.46\%. 
+- **2024-07-22** Starting research scientist intern at [FAIR Meta](https://ai.meta.com/research/), NYC.
+- **2024-07-19** Invited to lecture at [Cambridge Ellis Summer School](https://www.ellis.eng.cam.ac.uk/summer-school/). 
+- **2024-07-05** Wins the [MPI-IS Outstanding Female Doctoral Student Prize](https://is.mpg.de/news/siyuan-guo-wins-2024-mpi-is-outstanding-female-doctoral-student-prize)!!
+
 
 Talk Bio: Siyuan Guo is a Ph.D in Machine Learning at the University of Cambridge and Max Planck Institute for Intelligent Systems, working with [Bernhard Schölkopf](https://is.mpg.de/~bs) and [Ferenc Huszár](https://www.inference.vc/about/). She is curious to understand intelligence and accelerate scientific discovery through AI. She has published in top-tier ML venues (e.g., NeurIPS and ICLR) with 1 **oral** and 2 **spotlights** acceptance. Her research is recognized as [MIT EECS Rising Star](https://is.mpg.de/ei/news/siyuan-guo-receives-the-mit-eecs-rising-star-award), the [G-research PhD prize](https://www.gresearch.com/news/g-research-2025-phd-prize-winners-university-of-cambridge/), and wins [MPI-IS Outstanding Female Doctoral Student Prize](https://is.mpg.de/news/siyuan-guo-wins-2024-mpi-is-outstanding-female-doctoral-student-prize). Her current research is supported under the [Cambridge-Tübingen Fellow](https://mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/) and [Premium Research Studentship](https://www.cst.cam.ac.uk/admissions/phd/rs-premium).  
 
 
-List of recent news: 
-
-- **2024-09-25** _Do_ Finetti accepted in NeurIPS 2024 as **oral** presentation, with acceptance rate 0.46\%. 
-- **2024-07-22** Off to start research scientist intern at [FAIR Meta](https://ai.meta.com/research/), NYC.
-- **2024-07-19** Invited to lecture at [Cambridge Ellis Summer School](https://www.ellis.eng.cam.ac.uk/summer-school/). 
-- **2024-07-05** Received the [MPI-IS Outstanding Female Doctoral Student Prize](https://is.mpg.de/news/siyuan-guo-wins-2024-mpi-is-outstanding-female-doctoral-student-prize)!!
 
 I take great pleasure in (co-)mentoring a few talented and highly motivated students. It has been a great privilege
 for me to constantly learn and get inspired by them. Here is a list of students I am working with in time-wise order:
