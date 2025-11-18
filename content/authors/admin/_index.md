@@ -90,7 +90,7 @@ My work is guided by two intertwined questions:
 2. **How can we identify fundamental laws of nature directly from data?**  
    → This includes [*causal de Finetti*](https://arxiv.org/abs/2203.15756) line of work on the statistical foundations of causality and building a [foundation model for in-context causal inference](https://arxiv.org/abs/2506.06039) on scientific applications.
 
-My long-term interest is at the interface of AI and science: to help build a physics-inspired mathematical theory of intelligence and to use AI to accelerate scientific discovery.
+My long-term interest is AI + Science: helping build a physics-inspired mathematical theory of intelligence and using AI to accelerate scientific discovery.
 
 ---
 
