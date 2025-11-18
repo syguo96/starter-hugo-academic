@@ -11,14 +11,28 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-#  - block: collection
-#    content:
-#      title: Blogs
-#      filters:
-#        folders:
-#          - blog
-#    design:
-#      view: article-grid
-
-
+  - block: collection
+    id: news
+    content:
+      title: Recent News
+      subtitle: ''
+      text: ''   # optional intro text
+      count: 6   # how many items to show
+      filters:
+        folders:
+          - news   # read from content/news/*
+        author: ''
+        category: ''
+        tag: ''
+        publication_type: ''
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      offset: 0
+      sort_by: 'Date'
+      sort_ascending: false
+    design:
+      view: compact   # nice condensed list view
+      columns: '1'
 ---
