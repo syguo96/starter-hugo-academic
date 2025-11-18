@@ -15,7 +15,7 @@ sections:
   - block: markdown
     id: news          
     content:
-      title: ""
+      title: "News"
       text: |
         - **2025-10-09** Selected as [MIT EECS Rising Star](https://is.mpg.de/ei/news/siyuan-guo-receives-the-mit-eecs-rising-star-award). 
         - **2025-07-17** Returning as the opening lecturer for Causality Day at the [Cambridge Ellis Summer School 2025]([https://www.ellis.eng.cam.ac.uk/summer-school/](https://www.ellis.eng.cam.ac.uk/summer-school/)) following very positive participant feedback last year.
