@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Computer Science
+role: Machine Learning Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -31,16 +31,16 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Causality
-  - Scientific Induction
+  - Physics of Learning
   - Machine Learning
-  - Non-I.I.D. Data
+  - AI for Science
+  - Causality
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
-      institution: University of Cambridge & Max Planck Institute for Intelligent Systems
+    - course: PhD in Machine Learning
+      institution: University of Cambridge and Max Planck Institute for Intelligent Systems
       year: 2021
     - course: Msc in Machine Learning
       institution: University College London
@@ -80,11 +80,19 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a [Cambridge-Tübingen Fellow](https://mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/) at the Max Planck Institute for Intelligent Systems and the University of Cambridge, supervised by [Bernhard Schölkopf](https://is.mpg.de/~bs) and [Ferenc Huszár](https://www.inference.vc/about/). Previously I worked on fairness with [Ricardo Silva](https://www.homepages.ucl.ac.uk/~ucgtrbd/) at UCL and variable selection in high-dimensional statistics with [Richard Samworth](https://www.statslab.cam.ac.uk/~rjs57/). 
+I am a machine learning researcher, curious to understand intelligence. I have spent a wonderful time at Cambridge, Max Planck Institute, and Meta FAIR NYC. 
 
-My research interests are on scientific induction (a.k.a causality) and non-i.i.d. data. I am interested in incorporating causality in machine learning models and understanding causality in non-i.i.d. data:
-from [Causal de Finetti](https://arxiv.org/abs/2203.15756) (NeurIPS 2023) to [_Do_ Finetti](https://arxiv.org/abs/2405.18836) (NeurIPS 2024 **oral**), 
-from _out-of-distribution_ to [_out-of-variable_](https://arxiv.org/abs/2304.07896) (ICLR 2024). 
+I am curious to understand intelligence. Recently, I posited that evolutionary pressure (the need to learn in a finite amount of time to survive) is central to the emergence of intelligence, and that learning dynamics follow physical laws -- the principle of least action. This work on the [physics of learning](https://arxiv.org/abs/2509.21049) within one week of its arXiv release has prompted a fireside-chat invitation, multiple talk invitations, and collaboration discussions with infrastructure support (AWS). I am very curious to dig deeper along this direction. 
+
+In general, wwo intertwined questions guide my work:
+(1) How can we identify the fundamental laws of nature directly from data? (see causal de Finetti line of work)
+(2) How can principles in nature guide the design of learning systems and algorithms? (see physics of learning) 
+
+My long-term goal is to help build a physics-inspired mathematical theory of intelligence that, in
+turn accelerates scientific discovery
+
+Talk Bio: Siyuan Guo is a Ph.D in Machine Learning at the University of Cambridge and Max Planck Institute for Intelligent Systems, working with [Bernhard Schölkopf](https://is.mpg.de/~bs) and [Ferenc Huszár](https://www.inference.vc/about/). She is curious to understand intelligence and accelerate scientific discovery through AI. She has published in top-tier ML venues (e.g., NeurIPS and ICLR) with 1 **oral** and 2 **spotlights** acceptance. Her research is recognized as [MIT EECS Rising Star](https://is.mpg.de/ei/news/siyuan-guo-receives-the-mit-eecs-rising-star-award), the [G-research PhD prize](https://www.gresearch.com/news/g-research-2025-phd-prize-winners-university-of-cambridge/), and wins [MPI-IS Outstanding Female Doctoral Student Prize](https://is.mpg.de/news/siyuan-guo-wins-2024-mpi-is-outstanding-female-doctoral-student-prize). Her current research is supported under the [Cambridge-Tübingen Fellow](https://mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/) and [Premium Research Studentship](https://www.cst.cam.ac.uk/admissions/phd/rs-premium).  
+
 
 List of recent news: 
 
@@ -100,6 +108,6 @@ for me to constantly learn and get inspired by them. Here is a list of students 
 - Szilvia Ujváry, PhD student at Cambridge, Feb 2024 - now
 - Davin Xianjun Choo, PhD student at NUS, Jun - Aug 2023
 
-**Application** For motivated students interested in working on machine learning and/or causality, please reach out via [sguo26v@gmail.com](sguo26v@gmail.com). Internship can be hosted at beautiful [_MPI_](https://ei.is.mpg.de/). 
+**Application** For motivated students interested in working on the Science of AI and AI for Science, please reach out via [sguo26v@gmail.com](sguo26v@gmail.com). 
   
 {style="text-align: justify;"}
