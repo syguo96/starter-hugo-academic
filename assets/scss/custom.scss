@@ -1,6 +1,8 @@
-/* Hide any residual section heading for the news block */
-section#news .section-heading {
-  display: none;
+section#news .container,
+section#news .container-xl {
+  max-width: 720px;      /* adjust to taste (e.g. 640px, 800px) */
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Scrollable news list */
