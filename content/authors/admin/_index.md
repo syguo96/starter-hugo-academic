@@ -84,14 +84,15 @@ I am a machine learning researcher, curious about the nature of intelligence. I�
 
 My work is guided by two intertwined questions:
 
-1. **How can principles from nature guide the design of learning systems and algorithms?**  
+1. **How can principles from nature guide the design of learning systems?**  
    → This underpins my recent [*physics of learning*](https://arxiv.org/abs/2509.21049) programme.
 
 2. **How can we identify fundamental laws of nature directly from data?**  
    → This includes [*causal de Finetti*](https://arxiv.org/abs/2203.15756) line of work on the statistical foundations of causality and building a [foundation model for in-context causal inference](https://arxiv.org/abs/2506.06039) on scientific applications.
 
-My long-term goal is to help build a physics-inspired mathematical theory of intelligence that both advances the foundations of AI and accelerates scientific discovery.
+My long-term interest is at the interface of AI and science: to help build a physics-inspired mathematical theory of intelligence and to use AI to accelerate scientific discovery.
 
+---
 
 Talk Bio: Siyuan Guo is a Ph.D in Machine Learning at the University of Cambridge and Max Planck Institute for Intelligent Systems, working with [Bernhard Schölkopf](https://is.mpg.de/~bs) and [Ferenc Huszár](https://www.inference.vc/about/). She is curious to understand intelligence and accelerate scientific discovery through AI. She has published in top-tier ML venues (e.g., NeurIPS and ICLR) with 1 **oral** and 2 **spotlights** acceptance. Her research is recognized as [MIT EECS Rising Star](https://is.mpg.de/ei/news/siyuan-guo-receives-the-mit-eecs-rising-star-award), the [G-research PhD prize](https://www.gresearch.com/news/g-research-2025-phd-prize-winners-university-of-cambridge/), and wins [MPI-IS Outstanding Female Doctoral Student Prize](https://is.mpg.de/news/siyuan-guo-wins-2024-mpi-is-outstanding-female-doctoral-student-prize). Her current research is supported under the [Cambridge-Tübingen Fellow](https://mlg.eng.cam.ac.uk/cambridge_tubingen_phd_fellowships/) and [Premium Research Studentship](https://www.cst.cam.ac.uk/admissions/phd/rs-premium).  
 
