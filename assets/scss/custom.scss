@@ -1,3 +1,4 @@
+/* Hide any residual section heading for the news block */
 section#news .section-heading {
   display: none;
 }
@@ -21,14 +22,13 @@ section#news .view-list ul {
 
 section#news .view-compact li,
 section#news .view-list li {
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.3rem;
 }
 
-/* Even smaller / tighter on mobile if you want */
+/* Slightly smaller on narrow screens */
 @media (max-width: 768px) {
   section#news .view-compact,
   section#news .view-list {
     max-height: 200px;
-    font-size: 0.8rem;
   }
 }
