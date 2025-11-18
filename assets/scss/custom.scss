@@ -1,0 +1,15 @@
+/* Scrollable "Recent News" panel */
+.news-scroll .view-compact,
+.news-scroll .view-list {
+  max-height: 260px;    /* adjust height as you like */
+  overflow-y: auto;
+  padding-right: 0.5rem; /* space for scrollbar */
+}
+
+/* Slightly smaller on narrow screens */
+@media (max-width: 768px) {
+  .news-scroll .view-compact,
+  .news-scroll .view-list {
+    max-height: 200px;
+  }
+}
