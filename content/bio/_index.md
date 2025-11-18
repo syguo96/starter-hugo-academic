@@ -1,6 +1,7 @@
 ---
 title: "Invited Talk · Bio & Abstract"
 type: page
+cms_exclude: true
 ---
 
 ## Bio for Invited Talk (for organisers)
