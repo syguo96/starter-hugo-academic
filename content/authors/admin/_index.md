@@ -95,6 +95,7 @@ My long-term interest is AI + Science: helping build a physics-inspired mathemat
 Interested in Collaborations? Please reach out [sguo26v@gmail.com](sguo26v@gmail.com). 
 
 **Prospective students** If you are interested in working with me on science of AI and/or AI for Science, please email me with your CV and a short research statement.  
+
 ---
 
 
