@@ -80,7 +80,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a machine learning researcher, curious about the nature of intelligence. I’ve been fortunate to spend time at the University of Cambridge, the Max Planck Institute for Intelligent Systems, and Meta FAIR in New York, working with [Bernhard Schölkopf](https://is.mpg.de/~bs) and [Ferenc Huszár](https://www.inference.vc/about/).
+I am a machine learning researcher, curious about the nature of intelligence. I’ve been fortunate to spend time at the University of Cambridge with [Ferenc Huszár](https://www.inference.vc/about/), the Max Planck Institute for Intelligent Systems with [Bernhard Schölkopf](https://is.mpg.de/~bs), and interned at Meta FAIR in New York.
 
 My work is guided by two intertwined questions:
 
