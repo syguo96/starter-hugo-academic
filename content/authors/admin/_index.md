@@ -88,7 +88,7 @@ My work is guided by two intertwined questions:
    → This underpins my recent [*physics of learning*](https://arxiv.org/abs/2509.21049) programme.
 
 2. **How can we identify fundamental laws of nature directly from data?**  
-   → This includes my [*causal de Finetti*](https://arxiv.org/abs/2203.15756) line of work on the statistical foundations of causality and building a [foundation model for in-context causal inference](https://arxiv.org/abs/2506.06039) on scientific applications.
+   → This includes [*causal de Finetti*](https://arxiv.org/abs/2203.15756) line of work on the statistical foundations of causality and building a [foundation model for in-context causal inference](https://arxiv.org/abs/2506.06039) on scientific applications.
 
 My long-term goal is to help build a physics-inspired mathematical theory of intelligence that both advances the foundations of AI and accelerates scientific discovery.
 
