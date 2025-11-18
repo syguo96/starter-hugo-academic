@@ -92,9 +92,9 @@ My work is guided by two intertwined questions:
 
 My long-term interest is AI + Science: helping build a physics-inspired mathematical theory of intelligence and using AI to accelerate scientific discovery.
 
-_Interested in Collaborations?_ Please reach out [sguo26v@gmail.com](sguo26v@gmail.com). 
+I'm always interested in collaborations. Please reach out! Email: [sguo26v@gmail.com](sguo26v@gmail.com). 
 
-**Prospective students.** If you are interested in working with me on science of AI and/or AI for Science, please email me with your CV and a short research statement. 
+**Prospective students.** If you are interested in working with me on the science of AI and/or AI for Science, please email me with your CV and a short research statement. Here is a list of past mentees.
 
 ---
 
