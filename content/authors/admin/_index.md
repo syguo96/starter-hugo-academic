@@ -102,10 +102,10 @@ Email: sguo26v at gmail dot com
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr style="border:none;">
     <td style="width:50%; border:none; vertical-align:top; padding:0; font-size: 0.85em">
-      – Anna Kerekes (Co-mentored with B. Schölkopf)
+      – <a>Anna Kerekes</a> (Co-mentored with B. Schölkopf)
     </td>
     <td style="width:50%; border:none; vertical-align:top; padding:0; font-size: 0.85em">
-      – Yuche Gao (Co-advised with J. M. Hernández-Lobato)
+      – <a>Yuche Gao</a> (Co-advised with J. M. Hernández-Lobato)
     </td>
   </tr>
 
