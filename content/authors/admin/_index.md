@@ -99,7 +99,7 @@ Email: sguo26v at gmail dot com
 
 <span style="font-size: 0.85em;">Students and Alumni:</span>
 
-<table style="width:100%; border:none; border-collapse:collapse; margin-left: 0">
+<table style="width:100%; border:none; border-collapse:collapse; margin-left: 0; margin-top: -10px">
   <tr style="border:none;">
     <td style="width:50%; border:none; vertical-align:top; font-size: 0.85em">
       – <a href="https://anna2313.github.io/">Anna Kerekes</a> (Co-mentored with B. Schölkopf)
