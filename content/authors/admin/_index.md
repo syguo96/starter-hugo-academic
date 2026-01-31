@@ -140,22 +140,19 @@ Email: sguo26v at gmail dot com
 ---
 
 **News**
-- **2025-11-06** Invited Talk on Physis of Learning and Do-PFN at [kausable.ai](https://www.kausable.ai/).
-- **2025-10-31** Invited Friday Talk on Physics of Learning at Tübingen [Link](https://fridaytalks.github.io/).
-- **2025-10-22** Fireside Chat with Ploutos.ai on Physics of Learning, [Stream](https://world.ploutos.dev/stream/loose-courageous-hamster) available.
-- **2025-09-25** [Physics of Learning](https://arxiv.org/abs/2509.21049) preprint on arXiv. 
-- **2025-09-16** Selected as [MIT EECS Rising Star](https://is.mpg.de/ei/news/siyuan-guo-receives-the-mit-eecs-rising-star-award).
-- **2025-09-19** [Do-PFN](https://arxiv.org/abs/2506.06039) accepted at NeurIPS 2025 as _spotlight_ presentation, with acceptance rate 3.19\%.
-- **2025-07-17** Returning as the opening lecturer for Causality Day at the [Cambridge Ellis Summer School 2025](https://www.ellis.eng.cam.ac.uk/summer-school/) following very positive participant feedback last year.
-- **2025-05-27** Receives [G-Research Ph.D Prize](https://www.gresearch.com/news/g-research-2025-phd-prize-winners-university-of-cambridge/).
-- **2025-01-22** [Identifiable Exchangeable Mechanisms](https://arxiv.org/abs/2406.14302) accepted at ICLR 2025 as _spotlight_ presentation, with acceptance rate 5.1\%.
-- **2024-09-25** [_Do_ Finetti](https://arxiv.org/abs/2405.18836) accepted in NeurIPS 2024 as **oral** presentation, with acceptance rate 0.46\%. 
-- **2024-07-22** Starting research scientist intern at [FAIR Meta](https://ai.meta.com/research/), NYC.
-- **2024-07-19** Invited to lecture at [Cambridge Ellis Summer School 2024](https://www.ellis.eng.cam.ac.uk/summer-school/). 
-- **2024-07-05** Wins the [MPI-IS Outstanding Female Doctoral Student Prize](https://is.mpg.de/news/siyuan-guo-wins-2024-mpi-is-outstanding-female-doctoral-student-prize)!!
 
+* **Nov 2025** — 🎤 **Invited Talk** at [kausable.ai](https://kausable.ai): *Physics of Learning and Do-PFN*.
+* **Oct 2025** — 🎤 **Invited Friday Talk** at [Tübingen](https://fridaytalks.github.io/): *Physics of Learning*.
+* **Oct 2025** — 🎙️ **Fireside Chat** with Ploutos.ai: *Physics of Learning*. [Stream available](https://world.ploutos.dev/stream/loose-courageous-hamster)
+* **Sep 2025** — 📄 **Preprint**: *Physics of Learning* now available on [arXiv](https://arxiv.org/abs/2509.21049).
+* **Sep 2025** — 🏆 Selected as an [**MIT EECS Rising Star**](https://is.mpg.de/ei/news/siyuan-guo-receives-the-mit-eecs-rising-star-award).
+* **Sep 2025** — 📄 **NeurIPS Spotlight**: [*Do-PFN*](https://arxiv.org/abs/2506.06039) accepted (**Top 3.19%**).
+* **Jul 2025** — 🏫 **Opening Lecturer**: Returning to [Cambridge Ellis Summer School](https://www.ellis.eng.cam.ac.uk/summer-school/) for *Causality Day*.
+* **May 2025** — 🎖️ Received the [**G-Research Ph.D. Prize**](https://www.gresearch.com/news/g-research-2025-phd-prize-winners-university-of-cambridge/).
+* **Jan 2025** — 📄 **ICLR Spotlight**: [*Identifiable Exchangeable Mechanisms*](https://arxiv.org/abs/2406.14302)(**Top 5.1%**).
+* **Sep 2024** — 📢 **NeurIPS Oral**: [*Do Finetti*](https://arxiv.org/abs/2405.18836) (**Top 0.46%**).
+* **Jul 2024** — 👨‍🔬 **Research Internship**: Joined **FAIR Meta, NYC** as a Research Scientist Intern.
+* **Jul 2024** — 🏫 **Invited Lecturer**: [Cambridge Ellis Summer School 2024](https://www.ellis.eng.cam.ac.uk/summer-school/).
+* **Jul 2024** — 🏅 Won the [**MPI-IS Outstanding Female Doctoral Student Prize**](https://is.mpg.de/news/siyuan-guo-wins-2024-mpi-is-outstanding-female-doctoral-student-prize).
 
-
-
-  
-{style="text-align: justify;"}
+ 
