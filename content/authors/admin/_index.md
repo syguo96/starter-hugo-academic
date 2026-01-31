@@ -97,7 +97,7 @@ Email: sguo26v at gmail dot com
 
 --- 
 
-<span style="font-size: 0.85em;">Current Students:</span>
+<span style="font-size: 0.85em;">Students and Alumni:</span>
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr style="border:none;">
@@ -108,11 +108,7 @@ Email: sguo26v at gmail dot com
       – Yuche Gao (Co-advised with J. M. Hernández-Lobato)
     </td>
   </tr>
-</table>
 
-<span style="font-size: 0.85em;">Alumni:</span>
-
-<table style="width:100%; border:none; border-collapse:collapse;">
   <tr style="border:none;">
     <td style="width:50%; border:none; vertical-align:top; padding-right: 0; font-size: 0.85em">
       – <a href="https://ch.linkedin.com/in/michelle-chao-chen">Michelle Chao Chen</a> (Co-advised with B. Schölkopf)<br>
