@@ -148,7 +148,7 @@ Email: sguo26v at gmail dot com
 * Sep 2025 — 📄 NeurIPS Spotlight: [*Do-PFN*](https://arxiv.org/abs/2506.06039) accepted (**Top 3.19%**).
 * Jul 2025 — 🏫 Opening Lecturer: Returning to [Cambridge Ellis Summer School](https://www.ellis.eng.cam.ac.uk/summer-school/) for *Causality Day*.
 * May 2025 — 🎖️ Received the [**G-Research Ph.D. Prize**](https://www.gresearch.com/news/g-research-2025-phd-prize-winners-university-of-cambridge/).
-* Jan 2025 — 📄 ICLR Spotlight: [*Identifiable Exchangeable Mechanisms*](https://arxiv.org/abs/2406.14302)(**Top 5.1%**).
+* Jan 2025 — 📄 ICLR Spotlight: [*Identifiable Exchangeable Mechanisms*](https://arxiv.org/abs/2406.14302) (**Top 5.1%**).
 * Sep 2024 — 📢 NeurIPS Oral: [*Do Finetti*](https://arxiv.org/abs/2405.18836) (**Top 0.46%**).
 * Jul 2024 — 👨‍🔬 Research Internship: Joined *Meta FAIR, NYC* as a Research Scientist Intern.
 * Jul 2024 — 🏫 Invited Lecturer: [Cambridge Ellis Summer School 2024](https://www.ellis.eng.cam.ac.uk/summer-school/).
