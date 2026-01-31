@@ -99,33 +99,10 @@ Email: sguo26v at gmail dot com
 
 Current Students:
 
-<table style="width:100%; border:none; border-collapse:collapse;">
-  <tr style="border:none;">
-    <td style="width:33%; border:none; vertical-align:top;">
-      <ul style="list-style-type: '– '; margin: 0; padding-left: 1.2em;">
-        <li>Anna Kerekes</li>
-      </ul>
-    </td>
-    <td style="width:33%; border:none; vertical-align:top;">
-      <ul style="list-style-type: '– '; margin: 0; padding-left: 1.2em;">
-        <li>Yuche Gao</li>
-      </ul>
-    </td>
-    <td style="width:33%; border:none;"></td>
-  </tr>
-</table>
+| | |
+| :--- | :--- |
+| - Anna Kerekes | - Yuche Gao |
 
-Alumni:
-* [Michelle Chao Chen](https://ch.linkedin.com/in/michelle-chao-chen) (Co-advised with Bernhard Schölkopf)  
-  [On the Emergence and Test-Time Use of Structural Information in Large Language Models](https://arxiv.org/abs/2601.17869) *Under Submission, 2026*
-
-* [Bálint Mucsányi](https://bmucsanyi.github.io/) (Co-mentored with Patrik Reizinger)  
-  [Skill Learning via Policy Diversity Yields Identifiable Representations for Reinforcement Learning](https://arxiv.org/abs/2507.14748) *ICLR, 2026*
-
-* [Moritz Miller](https://mrtzmllr.github.io/) (Co-advised with Jonas Peters and Bernhard Schölkopf)  
-  [Counterfactual reasoning: an analysis of in-context emergence](https://arxiv.org/abs/2506.05188) *NeurIPS, 2025*
-
-* [Szilvia Ujváry](https://szilviaujvary.github.io/) (Co-mentored with Ferenc Huszár)
 ---
 
 **News**
