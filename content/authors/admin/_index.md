@@ -97,7 +97,7 @@ Email: sguo26v at gmail dot com
 
 --- 
 
-Current Students:
+<span style="font-size: 0.85em;">Current Students:</span>
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr style="border:none;">
@@ -110,7 +110,7 @@ Current Students:
   </tr>
 </table>
 
-Alumni: 
+<span style="font-size: 0.85em;">Alumni:</span>
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr style="border:none;">
