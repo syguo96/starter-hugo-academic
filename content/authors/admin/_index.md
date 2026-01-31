@@ -114,7 +114,7 @@ Alumni:
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr style="border:none;">
-    <td style="width:50%; padding-bottom: 2em; border:none; vertical-align:top; padding-right: 20px; font-size: 0.85em">
+    <td style="width:50%; padding-bottom: 2em; border:none; vertical-align:top; padding-right: 0px; font-size: 0.85em">
       – <a href="https://ch.linkedin.com/in/michelle-chao-chen">Michelle Chao Chen</a> (Co-advised with B. Schölkopf)<br>
       <small style="padding-left: 0em; display: block; color: #555; line-height: 1.4;">
         <a href="https://arxiv.org/abs/2601.17869"> Structural Information in LLMs.</a> <em>Under Submission, 2026</em>
@@ -129,7 +129,7 @@ Alumni:
   </tr>
 
   <tr style="border:none;">
-    <td style="width:50%; padding-bottom: 2em; border:none; vertical-align:top; padding-right: 20px; font-size: 0.85em">
+    <td style="width:50%; padding-bottom: 2em; border:none; vertical-align:top; padding-right: 0px; font-size: 0.85em">
       – <a href="https://mrtzmllr.github.io/">Moritz Miller</a> (Co-advised with J. Peters and B. Schölkopf)<br>
       <small style="padding-left: 0em; display: block; color: #555; line-height: 1.4;">
         <a href="https://arxiv.org/abs/2506.05188">In-context Counterfactual Reasoning.</a> <em>NeurIPS, 2025</em>
