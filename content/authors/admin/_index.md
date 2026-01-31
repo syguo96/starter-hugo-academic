@@ -86,10 +86,10 @@ I am a machine learning researcher, curious about the nature of intelligence. I�
 My long-term interest is AI + Science: helping build a physics-inspired mathematical theory of intelligence and using AI to accelerate scientific discovery. My work is guided by two intertwined questions:
 
 1. **How can principles from nature guide the design of learning systems?**  
-   → This underpins my recent [*physics of learning*](https://arxiv.org/abs/2509.21049) programme, illustrating that learning too follows the least action principle and classic learning algorithms are derivable. 
+   This underpins my recent [*physics of learning*](https://arxiv.org/abs/2509.21049) programme, illustrating that learning too follows the least action principle and classic learning algorithms are derivable. 
 
 2. **How can we identify fundamental laws of nature directly from data?**  
-   → This includes [*causal de Finetti*](https://arxiv.org/abs/2203.15756) line of work on the Bayesian foundations of causality and building a [foundation model for in-context causal inference](https://arxiv.org/abs/2506.06039) on scientific applications.
+   This includes [*causal de Finetti*](https://arxiv.org/abs/2203.15756) line of work on the Bayesian foundations of causality and building a [foundation model for in-context causal inference](https://arxiv.org/abs/2506.06039) on scientific applications.
 
 **Prospective students.** If you are interested in working with me on the science of AI and/or AI for Science, please reach out with your CV and a short research statement. 
 
@@ -97,19 +97,25 @@ Email: sguo26v at gmail dot com
 
 --- 
 
-### Current Students
+Current Students:
+
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr style="border:none;">
-    <td style="width:50%; border:none; vertical-align:top;">
-      <li>Anna Kerekes</li>
+    <td style="width:30%; border:none; vertical-align:top;">
+      <ul style="list-style-type: none; margin: 0; padding: 0;">
+        <li>– Anna Kerekes</li>
+      </ul>
     </td>
-    <td style="width:50%; border:none; vertical-align:top;">
-      <li>Yuche Gao</li>
+    <td style="width:30%; border:none; vertical-align:top;">
+      <ul style="list-style-type: none; margin: 0; padding: 0;">
+        <li>– Yuche Gao</li>
+      </ul>
     </td>
+    <td style="width:40%; border:none;"></td>
   </tr>
 </table>
 
-### Alumni
+Alumni:
 * [Michelle Chao Chen](https://ch.linkedin.com/in/michelle-chao-chen) (Co-advised with Bernhard Schölkopf)  
   [On the Emergence and Test-Time Use of Structural Information in Large Language Models](https://arxiv.org/abs/2601.17869) *Under Submission, 2026*
 
