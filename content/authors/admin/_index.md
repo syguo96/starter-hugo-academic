@@ -83,7 +83,7 @@ highlight_name: true
 I am a machine learning researcher, curious about the nature of intelligence. I’ve been fortunate to spend time at the University of Cambridge with [Ferenc Huszár](https://www.inference.vc/about/), the Max Planck Institute for Intelligent Systems with [Bernhard Schölkopf](https://is.mpg.de/~bs), and interned at Meta FAIR in New York.
 
 
-My long-term interest is AI + Science: helping build a physics-inspired mathematical theory of intelligence and using AI to accelerate scientific discovery. My work is guided by two intertwined questions:
+My long-term interest is AI + Science: helping build a physics-inspired mathematical theory of intelligence and using AI to accelerate scientific discovery. My work is driven by two intertwined questions:
 
 1. **How can principles from nature guide the design of learning systems?**  
    This underpins my recent [*physics of learning*](https://arxiv.org/abs/2509.21049) programme, illustrating that learning too follows the least action principle and classic learning algorithms are derivable. 
@@ -101,17 +101,17 @@ Current Students:
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr style="border:none;">
-    <td style="width:30%; border:none; vertical-align:top;">
-      <ul style="list-style-type: none; margin: 0; padding: 0;">
-        <li>– Anna Kerekes</li>
+    <td style="width:33%; border:none; vertical-align:top;">
+      <ul style="list-style-type: '– '; margin: 0; padding-left: 1.2em;">
+        <li>Anna Kerekes</li>
       </ul>
     </td>
-    <td style="width:30%; border:none; vertical-align:top;">
-      <ul style="list-style-type: none; margin: 0; padding: 0;">
-        <li>– Yuche Gao</li>
+    <td style="width:33%; border:none; vertical-align:top;">
+      <ul style="list-style-type: '– '; margin: 0; padding-left: 1.2em;">
+        <li>Yuche Gao</li>
       </ul>
     </td>
-    <td style="width:40%; border:none;"></td>
+    <td style="width:33%; border:none;"></td>
   </tr>
 </table>
 
