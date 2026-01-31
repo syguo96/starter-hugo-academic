@@ -114,15 +114,15 @@ Email: sguo26v at gmail dot com
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr style="border:none;">
-    <td style="width:50%; border:none; vertical-align:top; padding-right: 0px; font-size: 0.85em">
+    <td style="width:50%; border:none; vertical-align:top; padding-right: 0; font-size: 0.85em">
       – <a href="https://ch.linkedin.com/in/michelle-chao-chen">Michelle Chao Chen</a> (Co-advised with B. Schölkopf)<br>
-      <small style="padding-left: 0em; display: block; color: #555; line-height: 1.4;">
+      <small>
         <a href="https://arxiv.org/abs/2601.17869"> Structural Information in LLMs.</a> <em>Under Submission, 2026</em>
       </small>
     </td>
     <td style="width:50%; border:none; vertical-align:top; font-size: 0.85em">
       – <a href="https://bmucsanyi.github.io/">Bálint Mucsányi</a> (Co-mentored with P. Reizinger)<br>
-      <small style="padding-left: 0em; display: block; color: #555; line-height: 1.4;">
+      <small>
         <a href="https://arxiv.org/abs/2507.14748">Identifiable Representations for RL.</a> <em>ICLR, 2026</em>
       </small>
     </td>
@@ -131,7 +131,7 @@ Email: sguo26v at gmail dot com
   <tr style="border:none;">
     <td style="width:50%; border:none; vertical-align:top; padding-right: 0px; font-size: 0.85em">
       – <a href="https://mrtzmllr.github.io/">Moritz Miller</a> (Co-advised with J. Peters and B. Schölkopf)<br>
-      <small style="padding-left: 0em; display: block; color: #555; line-height: 1.4;">
+      <small>
         <a href="https://arxiv.org/abs/2506.05188">In-context Counterfactual Reasoning.</a> <em>NeurIPS, 2025</em>
       </small>
     </td>
