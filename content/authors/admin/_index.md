@@ -101,11 +101,11 @@ Current Students:
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr style="border:none;">
-    <td style="width:50%; border:none; vertical-align:top; padding:0;">
-      – Anna Kerekes (Co-mentored with Bernhard Schölkopf)
+    <td style="width:50%; border:none; vertical-align:top; padding:0; font-size: 0.85em">
+      – Anna Kerekes (Co-mentored with B. Schölkopf)
     </td>
-    <td style="width:50%; border:none; vertical-align:top; padding:0;">
-      – Yuche Gao (Co-advised with José Miguel Hernández-Lobato)
+    <td style="width:50%; border:none; vertical-align:top; padding:0; font-size: 0.85em">
+      – Yuche Gao (Co-advised with J. M. Hernández-Lobato)
     </td>
   </tr>
 </table>
@@ -114,13 +114,13 @@ Alumni:
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr style="border:none;">
-    <td style="width:50%; padding-bottom: 2em; border:none; vertical-align:top; padding-right: 20px;">
-      – <a href="https://ch.linkedin.com/in/michelle-chao-chen">Michelle Chao Chen</a> (Co-advised with Bernhard Schölkopf)<br>
+    <td style="width:50%; padding-bottom: 2em; border:none; vertical-align:top; padding-right: 20px; font-size: 0.85em">
+      – <a href="https://ch.linkedin.com/in/michelle-chao-chen">Michelle Chao Chen</a> (Co-advised with B. Schölkopf)<br>
       <small style="padding-left: 0em; display: block; color: #555; line-height: 1.4;">
         <a href="https://arxiv.org/abs/2601.17869"> Structural Information in LLMs.</a> <em>Under Submission, 2026</em>
       </small>
     </td>
-    <td style="width:50%; padding-bottom: 2em; border:none; vertical-align:top;">
+    <td style="width:50%; padding-bottom: 2em; border:none; vertical-align:top; font-size: 0.85em">
       – <a href="https://bmucsanyi.github.io/">Bálint Mucsányi</a> (Co-mentored with P. Reizinger)<br>
       <small style="padding-left: 0em; display: block; color: #555; line-height: 1.4;">
         <a href="https://arxiv.org/abs/2507.14748">Identifiable Representations for RL.</a> <em>ICLR, 2026</em>
@@ -129,13 +129,13 @@ Alumni:
   </tr>
 
   <tr style="border:none;">
-    <td style="width:50%; padding-bottom: 2em; border:none; vertical-align:top; padding-right: 20px;">
+    <td style="width:50%; padding-bottom: 2em; border:none; vertical-align:top; padding-right: 20px; font-size: 0.85em">
       – <a href="https://mrtzmllr.github.io/">Moritz Miller</a> (Co-advised with J. Peters and B. Schölkopf)<br>
       <small style="padding-left: 0em; display: block; color: #555; line-height: 1.4;">
         <a href="https://arxiv.org/abs/2506.05188">In-context Counterfactual Reasoning.</a> <em>NeurIPS, 2025</em>
       </small>
     </td>
-    <td style="width:50%; padding-bottom: 2em; border:none; vertical-align:top;">
+    <td style="width:50%; padding-bottom: 2em; border:none; vertical-align:top; font-size: 0.85em">
       – <a href="https://szilviaujvary.github.io/">Szilvia Ujváry</a> (Co-mentored with Ferenc Huszár)
     </td>
   </tr>
