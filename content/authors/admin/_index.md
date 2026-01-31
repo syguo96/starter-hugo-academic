@@ -102,10 +102,10 @@ Current Students:
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr style="border:none;">
     <td style="width:50%; border:none; vertical-align:top; padding:0;">
-      – Anna Kerekes (co-mentored with Bernhard Schölkopf)
+      – Anna Kerekes (Co-mentored with Bernhard Schölkopf)
     </td>
     <td style="width:50%; border:none; vertical-align:top; padding:0;">
-      – Yuche Gao (co-advised with José Miguel Hernández-Lobato)
+      – Yuche Gao (Co-advised with José Miguel Hernández-Lobato)
     </td>
   </tr>
 </table>
@@ -116,13 +116,13 @@ Alumni:
   <tr style="border:none;">
     <td style="width:50%; padding-bottom: 2em; border:none; vertical-align:top; padding-right: 20px;">
       – <a href="https://ch.linkedin.com/in/michelle-chao-chen">Michelle Chao Chen</a> (Co-advised with Bernhard Schölkopf)<br>
-      <small style="padding-left: 1.2em; display: block; color: #555; line-height: 1.4;">
+      <small style="padding-left: 0em; display: block; color: #555; line-height: 1.4;">
         <a href="https://arxiv.org/abs/2601.17869"> Structural Information in LLMs.</a> <em>Under Submission, 2026</em>
       </small>
     </td>
     <td style="width:50%; padding-bottom: 2em; border:none; vertical-align:top;">
       – <a href="https://bmucsanyi.github.io/">Bálint Mucsányi</a> (Co-mentored with P. Reizinger)<br>
-      <small style="padding-left: 1.2em; display: block; color: #555; line-height: 1.4;">
+      <small style="padding-left: 0em; display: block; color: #555; line-height: 1.4;">
         <a href="https://arxiv.org/abs/2507.14748">Identifiable Representations for RL.</a> <em>ICLR, 2026</em>
       </small>
     </td>
@@ -131,7 +131,7 @@ Alumni:
   <tr style="border:none;">
     <td style="width:50%; padding-bottom: 2em; border:none; vertical-align:top; padding-right: 20px;">
       – <a href="https://mrtzmllr.github.io/">Moritz Miller</a> (Co-advised with J. Peters and B. Schölkopf)<br>
-      <small style="padding-left: 1.2em; display: block; color: #555; line-height: 1.4;">
+      <small style="padding-left: 0em; display: block; color: #555; line-height: 1.4;">
         <a href="https://arxiv.org/abs/2506.05188">In-context Counterfactual Reasoning.</a> <em>NeurIPS, 2025</em>
       </small>
     </td>
