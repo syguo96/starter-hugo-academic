@@ -103,15 +103,13 @@ Email: sguo26v at gmail dot com
   <tr style="border:none;">
     <td style="width:50%; border:none; vertical-align:top; padding:0; font-size: 0.85em">
       – <a href="https://anna2313.github.io/">Anna Kerekes</a> (Co-mentored with B. Schölkopf)
-        <a></a>
     </td>
     <td style="width:50%; border:none; vertical-align:top; padding:0; font-size: 0.85em">
-      – <a>Yuche Gao</a> (Co-advised with J. M. Hernández-Lobato)
-        <a></a>
+      – Yuche Gao (Co-advised with J. M. Hernández-Lobato)
     </td>
   </tr>
   <tr style="border:none;">
-    <td style="width:50%; border:none; vertical-align:top; padding-right: 0; font-size: 0.85em">
+    <td style="width:50%; border:none; vertical-align:top; padding: 0; font-size: 0.85em">
       – <a href="https://ch.linkedin.com/in/michelle-chao-chen">Michelle Chao Chen</a> (Co-advised with B. Schölkopf)<br>
         <a href="https://arxiv.org/abs/2601.17869"> Structural Information in LLMs.</a> <em>Under Submission, 2026</em>
     </td>
@@ -121,7 +119,7 @@ Email: sguo26v at gmail dot com
     </td>
   </tr>
   <tr style="border:none;">
-    <td style="width:50%; border:none; vertical-align:top; padding-right: 0px; font-size: 0.85em">
+    <td style="width:50%; border:none; vertical-align:top; padding: 0px; font-size: 0.85em">
       – <a href="https://mrtzmllr.github.io/">Moritz Miller</a> (Co-advised with J. Peters and B. Schölkopf)<br>
         <a href="https://arxiv.org/abs/2506.05188">In-context Counterfactual Reasoning.</a> <em>NeurIPS, 2025</em>
     </td>
