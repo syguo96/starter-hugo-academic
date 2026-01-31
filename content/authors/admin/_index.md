@@ -82,20 +82,44 @@ highlight_name: true
 ---
 I am a machine learning researcher, curious about the nature of intelligence. I’ve been fortunate to spend time at the University of Cambridge with [Ferenc Huszár](https://www.inference.vc/about/), the Max Planck Institute for Intelligent Systems with [Bernhard Schölkopf](https://is.mpg.de/~bs), and interned at Meta FAIR in New York.
 
-My work is guided by two intertwined questions:
+
+My long-term interest is AI + Science: helping build a physics-inspired mathematical theory of intelligence and using AI to accelerate scientific discovery. My work is guided by two intertwined questions:
 
 1. **How can principles from nature guide the design of learning systems?**  
-   → This underpins my recent [*physics of learning*](https://arxiv.org/abs/2509.21049) programme.
+   → This underpins my recent [*physics of learning*](https://arxiv.org/abs/2509.21049) programme, illustrating that learning too follows the least action principle and classic learning algorithms are derivable. 
 
 2. **How can we identify fundamental laws of nature directly from data?**  
-   → This includes [*causal de Finetti*](https://arxiv.org/abs/2203.15756) line of work on the statistical foundations of causality and building a [foundation model for in-context causal inference](https://arxiv.org/abs/2506.06039) on scientific applications.
+   → This includes [*causal de Finetti*](https://arxiv.org/abs/2203.15756) line of work on the Bayesian foundations of causality and building a [foundation model for in-context causal inference](https://arxiv.org/abs/2506.06039) on scientific applications.
 
-My long-term interest is AI + Science: helping build a physics-inspired mathematical theory of intelligence and using AI to accelerate scientific discovery.
+**Prospective students.** If you are interested in working with me on the science of AI and/or AI for Science, please reach out with your CV and a short research statement. 
 
-_Interested in collaborations?_ Email: [sguo26v@gmail.com](sguo26v@gmail.com). 
+Email: sguo26v at gmail dot com
 
-**Prospective students.** If you are interested in working with me on the science of AI and/or AI for Science, please email me with your CV and a short research statement. See current students and alumni.
+--- 
 
+### Current Students
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr style="border:none;">
+    <td style="width:50%; border:none; vertical-align:top;">
+      <li>Anna Kerekes</li>
+    </td>
+    <td style="width:50%; border:none; vertical-align:top;">
+      <li>Yuche Gao</li>
+    </td>
+  </tr>
+</table>
+
+### Alumni
+* [Michelle Chao Chen](https://ch.linkedin.com/in/michelle-chao-chen) (Co-advised with Bernhard Schölkopf)  
+  [On the Emergence and Test-Time Use of Structural Information in Large Language Models](https://arxiv.org/abs/2601.17869) *Under Submission, 2026*
+
+* [Bálint Mucsányi](https://bmucsanyi.github.io/) (Co-mentored with Patrik Reizinger)  
+  [Skill Learning via Policy Diversity Yields Identifiable Representations for Reinforcement Learning](https://arxiv.org/abs/2507.14748) *ICLR, 2026*
+
+* [Moritz Miller](https://mrtzmllr.github.io/) (Co-advised with Jonas Peters and Bernhard Schölkopf)  
+  [Counterfactual reasoning: an analysis of in-context emergence](https://arxiv.org/abs/2506.05188) *NeurIPS, 2025*
+
+* [Szilvia Ujváry](https://szilviaujvary.github.io/) (Co-mentored with Ferenc Huszár)
 ---
 
 **News**
