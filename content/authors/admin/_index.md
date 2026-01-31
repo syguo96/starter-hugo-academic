@@ -136,7 +136,7 @@ Alumni:
       </small>
     </td>
     <td style="width:50%; padding-bottom: 2em; border:none; vertical-align:top; font-size: 0.85em">
-      – <a href="https://szilviaujvary.github.io/">Szilvia Ujváry</a> (Co-mentored with Ferenc Huszár)
+      – <a href="https://szilviaujvary.github.io/">Szilvia Ujváry</a> (Co-mentored with F. Huszár)
     </td>
   </tr>
 </table>
