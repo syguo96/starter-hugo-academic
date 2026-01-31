@@ -102,7 +102,7 @@ Email: sguo26v at gmail dot com
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr style="border:none;">
     <td style="width:50%; border:none; vertical-align:top; padding:0; font-size: 0.85em">
-      – <a>Anna Kerekes</a> (Co-mentored with B. Schölkopf)
+      – <a href="https://anna2313.github.io/">Anna Kerekes</a> (Co-mentored with B. Schölkopf)
     </td>
     <td style="width:50%; border:none; vertical-align:top; padding:0; font-size: 0.85em">
       – <a>Yuche Gao</a> (Co-advised with J. M. Hernández-Lobato)
