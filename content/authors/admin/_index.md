@@ -2,9 +2,6 @@
 # Display name
 title: Siyuan Guo
 
-# Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
-
 # Full name (for SEO)
 first_name: Siyuan
 last_name: Guo
@@ -83,7 +80,7 @@ highlight_name: true
 
 {{< figure src="profile.jpg" width="250px" style="float: right; margin-left: 20px;" >}}
 
-I am a machine learning researcher, curious about the nature of intelligence. I’ve been fortunate to spend time at the University of Cambridge with [Ferenc Huszár](https://www.inference.vc/about/), the Max Planck Institute for Intelligent Systems with [Bernhard Schölkopf](https://is.mpg.de/~bs), and interned at Meta FAIR in New York.
+I am a machine learning researcher, curious about the nature of intelligence.  I’ve been fortunate to do my PhD at the University of Cambridge with [Ferenc Huszár](https://www.inference.vc/about/) and the Max Planck Institute for Intelligent Systems with [Bernhard Schölkopf](https://is.mpg.de/~bs). I have also interned at Meta FAIR in New York and now an AI scientist at [Prior Labs](https://priorlabs.ai/). 
 
 
 My long-term interest is AI + Science: helping build a physics-inspired mathematical theory of intelligence and using AI to accelerate scientific discovery. My work is driven by two intertwined questions:
