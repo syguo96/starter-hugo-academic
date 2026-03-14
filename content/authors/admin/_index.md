@@ -77,6 +77,8 @@ social:
     icon_pack: ai
     link: uploads/CV.pdf
 
+design: 
+  columns: '1'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
