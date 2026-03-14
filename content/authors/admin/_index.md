@@ -77,11 +77,12 @@ social:
     icon_pack: ai
     link: uploads/CV.pdf
 
-{{< figure src="profile.jpg" width="250px" style="float: right; margin-left: 20px;" >}}
-
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+{{< figure src="profile.jpg" width="250px" style="float: right; margin-left: 20px;" >}}
+
 I am a machine learning researcher, curious about the nature of intelligence. I’ve been fortunate to spend time at the University of Cambridge with [Ferenc Huszár](https://www.inference.vc/about/), the Max Planck Institute for Intelligent Systems with [Bernhard Schölkopf](https://is.mpg.de/~bs), and interned at Meta FAIR in New York.
 
 
