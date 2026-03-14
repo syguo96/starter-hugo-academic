@@ -1,6 +1,7 @@
 ---
 cms_exclude: true
-
+design:
+  columns: '1'
 # To publish author profile pages, remove all of the `_build` and `cascade` settings below.
 _build:
   render: never
