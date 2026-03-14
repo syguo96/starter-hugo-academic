@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-<img src="profile.jpg" width="200" style="float: left; margin-right: 2em;">
+<img src="profile.jpeg" width="200" style="float: left; margin-right: 2em;">
 
 I am a machine learning researcher, curious about the nature of intelligence. I am also an AI scientist at [Prior Labs](https://priorlabs.ai/). I’ve been fortunate to do my PhD at the University of Cambridge with [Ferenc Huszár](https://www.inference.vc/about/) and the Max Planck Institute for Intelligent Systems with [Bernhard Schölkopf](https://is.mpg.de/~bs). I have also interned at [Meta FAIR](https://ai.meta.com/research/) in New York. 
 
