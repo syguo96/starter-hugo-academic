@@ -135,9 +135,14 @@ Email: sguo26v at gmail dot com
 ---
 
 **News**
+* Feb 2026 - Invited Talk at [CISPA Helmholtz Center for Information Security](https://cispa.de/en): *Physics of Learning and Structure*.
+* Feb 2026 - Invited Talk at [MBZUAI](https://mbzuai.ac.ae/): *Physics of Learning and Structure*.
+* Jan 2026 - Invited Talk at [Lawrence Berkely National Laboratory](https://www.lbl.gov/): *Physics of Learning and Structure*.
+* Dec 2025 - Research Visit at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), NYC. 
 * Nov 2025 — Invited Talk at [kausable.ai](https://kausable.ai): *Physics of Learning and Do-PFN*.
 * Oct 2025 — Invited Friday Talk at [Tübingen](https://fridaytalks.github.io/): *Physics of Learning*.
 * Oct 2025 — Fireside Chat with Ploutos.ai: *Physics of Learning*. [Stream available](https://world.ploutos.dev/stream/loose-courageous-hamster)
+* Oct 2025 - Invited Talk at Gatsby Computational Neuroscience Unit, University College London: *Physics of Learning and Structure*. 
 * Sep 2025 — 📄 Preprint: *Physics of Learning* now available on [arXiv](https://arxiv.org/abs/2509.21049).
 * Sep 2025 — 🏆 Selected as an [**MIT EECS Rising Star**](https://is.mpg.de/ei/news/siyuan-guo-receives-the-mit-eecs-rising-star-award).
 * Sep 2025 — 📄 NeurIPS Spotlight: [*Do-PFN*](https://arxiv.org/abs/2506.06039) accepted (**Top 3.19%**).
