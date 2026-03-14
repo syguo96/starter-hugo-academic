@@ -1,6 +1,7 @@
 ---
 layout: home
 display_header: false
+type: page
 ---
 <img src="profile.png" width="200" style="float: left; margin-right: 2em;">
 
