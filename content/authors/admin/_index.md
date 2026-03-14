@@ -80,7 +80,7 @@ highlight_name: true
 
 ---
 
-I am a machine learning researcher, curious about the nature of intelligence. I am also an AI scientist at [Prior Labs](https://priorlabs.ai/). I’ve been fortunate to do my PhD at the University of Cambridge with [Ferenc Huszár](https://www.inference.vc/about/) and the Max Planck Institute for Intelligent Systems with [Bernhard Schölkopf](https://is.mpg.de/~bs). I have also interned at [Meta FAIR](https://ai.meta.com/research/) in New York. 
+I am a machine learning researcher, curious about the nature of intelligence. I am currently an AI scientist at [Prior Labs](https://priorlabs.ai/). I’ve been fortunate to do my PhD at the University of Cambridge with [Ferenc Huszár](https://www.inference.vc/about/) and the Max Planck Institute for Intelligent Systems with [Bernhard Schölkopf](https://is.mpg.de/~bs). I have also interned at [Meta FAIR](https://ai.meta.com/research/) in New York. 
 
 
 My long-term interest is AI + Science: helping build a physics-inspired mathematical theory of intelligence and using AI to accelerate scientific discovery. My work is driven by two intertwined questions:
@@ -97,7 +97,7 @@ Email: sguo26v at gmail dot com
 
 --- 
 
-<span style="font-size: 0.85em;">Students and Alumni:</span>
+<span style="font-size: 1em;">Students and Alumni:</span>
 
 <table style="width:100%; border:none; border-collapse:collapse; margin-left: 0; margin-top: -10px">
   <tr style="border:none;">
