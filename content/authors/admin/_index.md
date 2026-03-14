@@ -77,6 +77,8 @@ social:
     icon_pack: ai
     link: uploads/CV.pdf
 
+{{< figure src="profile.jpg" width="250px" style="float: right; margin-left: 20px;" >}}
+
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
